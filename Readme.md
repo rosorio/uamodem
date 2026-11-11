@@ -2,13 +2,12 @@
 
 This repo is part of my experiments, a toy not supposed to become official.
 
-Since a while I have this Apple Winmodem, a mistaken purchase when I was looking
-for a modem who handles Caller ID(CID) for a free time project.
+Since a while I have this [Apple Winmodem](https://en.wikipedia.org/wiki/Apple_USB_Modem) , a mistaken purchase when I was looking for a modem who handles Caller ID(CID) for a free time project.
 
 I don't wanna spend to much time on it, so this is an excellent playground to see
 if we can revive the device.
 The session cost less than 5 dollars according with the `/cost` prompt, and leaves
-me with a full functional modem plus 2 sample applications.
+me with a functional audio modem plus 2 sample applications.
 
 The funniest is answerplay who convert my POTS in the "Santa Claus's line".
 Each caller is treated to a randomly selected Christmas story.
